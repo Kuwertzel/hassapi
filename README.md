@@ -11,6 +11,7 @@ hass.turn_on("light.bedroom_light")
 hass.run_script("good_morning")
 ```
 ## Installation
+The following command installs the base version of hassapi (https://github.com/hass-api/hassapi/), not this extended version. This version is not available via pip.
 ```
 pip install hassapi
 ```
