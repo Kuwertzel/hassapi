@@ -1,5 +1,4 @@
 ## [Home Assistant](https://www.home-assistant.io/) Web API Client for Python
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/hassapi?style=flat-square)](https://pypistats.org/packages/hassapi)
 
 ## Examples
 ```python
